@@ -1,0 +1,118 @@
+/* Your CSS goes here! */
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    background: linear-gradient(to right, #5ffcff, #feb47b);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+h3 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.DigitalStudies {
+    display: block;          
+    text-align: center;      
+    margin-left: auto;       
+    margin-right: auto;
+
+    font-size: 15px;
+    color: black;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7);
+}
+
+table.table {
+    background-color: blue !important; /* Your desired background */
+    width: 100%;
+    margin: 50px auto;
+    border-collapse: collapse;
+}
+
+table.table th, table.table td {
+    padding: 12px;
+    border: 1px solid #ddd;
+}
+
+
+.p {
+    text-align: center;
+}
+
+.unorderedlist{
+    color: black; 
+    font-family: 'Arial', sans-serif;
+    text-align: center
+}
+
+.page1 {
+    background-color: #6F8FAF;
+}
+
+.page2{
+    background-color:rgb(72, 163, 156)
+}
+
+.img:hover {
+    transform: scale(1.1);
+}
+
+.portfolio {
+    font-size: 15px;
+    color: white;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7);
+}
+
+.MyWork {
+    color: rgb(205, 191, 119)
+}
+
+.second {
+    color: black; 
+    font-family: 'Arial', sans-serif;
+    text-align: center
+}
+
+.list {
+    color: black; 
+    font-family: 'Arial', sans-serif;
+}
+
+.AboutMe {
+      background: linear-gradient(90deg, #003366, #0066cc); /* Dark blue gradient */
+      -webkit-background-clip: text; /* Make the gradient clip to the text */
+      color: transparent;
+}
+
+.mynameis {
+
+    background: linear-gradient(90deg, #004080, #003366); /* Darker blue gradient */
+    -webkit-background-clip: text; /* Make the gradient clip to the text */
+    color: transparent; 
+}
+
+.firstparagraph {
+    color: #FFFAFA
+}
+
+.secondparagraph {
+    color: #FFFAFA
+}
+
+.thirdparagraph {
+    color: #FFFAFA
+}
+
+.m-2 {
+    color: #FFFAFA; 
+}
